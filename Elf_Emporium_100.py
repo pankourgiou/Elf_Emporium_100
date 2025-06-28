@@ -40,8 +40,8 @@ def main():
     
     # Items available at the market (with humorous descriptions)
     market_items = {
-        'Mystic Herb': {'price': 12, 'desc': 'A herb that smells suspiciously like unicorn tears.'},
-        'Ancient Relic': {'price': 60, 'desc': 'An ancient relic rumored to be cursed (or blessed, who can tell?)'},
+        'Mystic Herb': {'price': 8, 'desc': 'A herb that smells suspiciously like unicorn tears.'},
+        'Ancient Relic': {'price': 66, 'desc': 'An ancient relic rumored to be cursed (or blessed, who can tell?)'},
         'Enchanted Bow': {'price': 100, 'desc': 'A bow that sings ballads when you shoot an arrow.'},
         'Pixie Dust': {'price': 25, 'desc': 'Sparkling dust to make your trades extra magical.'},
         'Goblin Gadget': {'price': 40, 'desc': 'A mysterious gadget made by goblins. Its purpose? Even they are unsure!'}
